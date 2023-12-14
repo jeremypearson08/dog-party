@@ -1,5 +1,6 @@
 body {
     font-family: 'Raleway', sans-serif;
+    margin: 0px;
 }
 
 .top-nav {
@@ -42,18 +43,18 @@ p {
   
   h2 {
     position: absolute;
-    top: 20%; /* Adjust the positioning */
-    left: 30%; /* Adjust the positioning */
+    top: 20%; 
+    left: 45%; 
     z-index: 1;
   }
 
   #main-dog-image {
     position: absolute;
-    top: 30%; /* Adjust the positioning */
-    left: 30%; /* Adjust the positioning */
-    z-index: 1; /* Ensure it's above the background image */
-    height: 200px;
-    width: 200px;
+    top: 30%; 
+    left: 44%; 
+    z-index: 1; 
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     border: #467EA2 3px solid;
   }
